@@ -1,0 +1,2 @@
+some chenges in newfile.txt
+Some new changes.
