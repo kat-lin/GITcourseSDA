@@ -1,1 +1,2 @@
-Example sentence
+<<<<<<< HEAD
+Example sentence by master and testing merged.
