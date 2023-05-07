@@ -1,1 +1,1 @@
-Some text
+Some text. There is some text in first commit file
