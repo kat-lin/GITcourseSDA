@@ -1,2 +1,0 @@
-<<<<<<< HEAD
-Example sentence by master and testing merged. We change 2 time
