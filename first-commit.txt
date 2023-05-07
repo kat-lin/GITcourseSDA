@@ -1,1 +1,1 @@
-Some text. There is some text in first commit file
+Some text. 7.05.2023 - test revert history
